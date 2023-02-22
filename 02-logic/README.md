@@ -16,7 +16,7 @@
 
 2. Mark the largest possible implicants in the K-map and according to them, write the equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![IMG_0821](https://user-images.githubusercontent.com/102173814/220767975-faf427a9-e30c-4451-9e2e-2a66e9c04ab3.jpg)
+   ![IMG_0821](https://user-images.githubusercontent.com/102173814/220768350-3b9fbd11-e036-453a-aff5-7764b056a9c4.jpg)
 
    ![IMG_0820](https://user-images.githubusercontent.com/102173814/220767983-3a340d46-3810-40c6-8585-3e6f6adaf4cf.jpg)
 
