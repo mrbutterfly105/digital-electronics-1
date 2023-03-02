@@ -40,7 +40,8 @@ LED(5) <= '1' when (SW > "1001") else '0';
 
 -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
   LED(7) <= SW(0) XOR SW(1) XOR SW(2) XOR SW(3);
-   ```
+   
+```
 
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
