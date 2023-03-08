@@ -25,7 +25,7 @@
 
 2. Listing of LEDs(7:4) part of VHDL architecture from source file `top.vhd`. Try to write logic functions as simple as possible. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
-   ```vhdl
+```vhdl
    --------------------------------------------------------------------
    -- Experiments on your own: LED(7:4) indicators
 
@@ -42,7 +42,6 @@
      LED(7) <= SW(0) XOR SW(1) XOR SW(2) XOR SW(3);
    
 ```
-
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
   ![prubeh](https://user-images.githubusercontent.com/102173814/223852520-cd5dad48-0c39-4261-8073-4310b16ff72b.PNG)
